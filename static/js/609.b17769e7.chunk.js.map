@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/609.b17769e7.chunk.js","mappings":"wHAEA,Q,SAAqB,C","sources":["../../packages/uikit/src/widgets/Modal/motionDomMax.ts"],"sourcesContent":["import { domMax } from \"framer-motion\";\n\nexport default domMax;\n"],"names":[],"sourceRoot":""}
